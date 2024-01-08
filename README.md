@@ -2,10 +2,15 @@
 ![tmnt-type](https://github.com/iahmad03/iahmad03/assets/148810603/43fe6b88-7561-4de4-9480-0cd84a1689e9)
 
 - 👨🏻‍💻  Interest in ML projects
-- 🏫  Currently studying Computer Science at Northern Virginia Community College
-- 🧠  I'm learning JavaScript, React, and SQL 
+- 🏫  Studying Computer Science at Northern Virginia Community College
+- 🧠  Currently learning JavaScript and SQL 
 - 📍  Based in Northern Virginia
 
+### 𝙒𝙝𝙖𝙩 𝙖𝙧𝙚 𝙢𝙮 𝙝𝙤𝙗𝙗𝙞𝙚𝙨?
+- 🏋️  I love going to the gym
+- 📝  I spend a lot of time doing homework
+- 🎮  I play video games to distract myself from homework 
+- 🎵  I love listening to music while doing homework, check out my [Spotify](https://open.spotify.com/user/killer62389?si=49f143ccd25f4ca2)
 ### 𝙎𝙠𝙞𝙡𝙡𝙨
 
 <p align="left">
