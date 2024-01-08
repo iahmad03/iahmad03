@@ -2,8 +2,8 @@
 ![tmnt-type](https://github.com/iahmad03/iahmad03/assets/148810603/43fe6b88-7561-4de4-9480-0cd84a1689e9)
 
 - 👨🏻‍💻  Interested in machine learning and data analytics
-- 🏫   Studying Computer Science at [Northern Virginia Community College](https://www.nvcc.edu/)
-- 🧠  Currently learning JavaScript and SQL 
+- 🧠  Currently learning JavaScript and SQL
+- 🏫  Studying Computer Science at [Northern Virginia Community College](https://www.nvcc.edu/)
 - 📍  Based in Northern Virginia
 
 ### 𝙒𝙝𝙖𝙩 𝙖𝙧𝙚 𝙢𝙮 𝙝𝙤𝙗𝙗𝙞𝙚𝙨?
