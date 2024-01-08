@@ -1,5 +1,5 @@
 ## 𝙄𝙧𝙛𝙝𝙖𝙣 𝘼𝙝𝙢𝙖𝙙
-![](![](tmnt-type.gif))
+![](![](https://github.com/iahmad03/iahmad03/blob/main/tmnt-type.gif))
 
 - 👨🏻‍💻  Interest in ML projects
 - 🏫  Currently studying Computer Science at Northern Virginia Community College
