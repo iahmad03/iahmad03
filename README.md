@@ -1,8 +1,8 @@
 ## 𝙄𝙧𝙛𝙝𝙖𝙣 𝘼𝙝𝙢𝙖𝙙
 ![tmnt-type](https://github.com/iahmad03/iahmad03/assets/148810603/43fe6b88-7561-4de4-9480-0cd84a1689e9)
 
-- 👨🏻‍💻  Interest in ML projects
-- 🏫  Studying Computer Science at Northern Virginia Community College
+- 👨🏻‍💻  Interested in machine learning and data analytics
+- 🏫  Studying Computer Science at [Northern Virginia Community College](https://www.nvcc.edu/)
 - 🧠  Currently learning JavaScript and SQL 
 - 📍  Based in Northern Virginia
 
