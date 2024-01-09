@@ -11,7 +11,7 @@
 - 🏋️  I love going to the gym
 - 📝  I spend a lot of time doing homework
 - 🎮  I play video games to distract myself from homework 
-- 🎵  I like listening to music while doing homework
+- 🎵  I love listening to music, especially while I'm doing homework
   - Check out my [Spotify](https://open.spotify.com/user/killer62389?si=49f143ccd25f4ca2)
 
 ### 𝙎𝙠𝙞𝙡𝙡𝙨
