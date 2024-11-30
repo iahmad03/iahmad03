@@ -2,8 +2,6 @@
 <img src="https://github.com/iahmad03/iahmad03/assets/148810603/43fe6b88-7561-4de4-9480-0cd84a1689e9" width="360" height="280">
 
 - 👨🏻‍💻  Interested in machine learning and web development
-- 🌱  Currently learning JavaScript
-- 🔭  Currently working on a portfolio website
 - 📚  &nbsp;Studying Computer Science at [Northern Virginia Community College](https://www.nvcc.edu/)
 
 ## 𝙎𝙠𝙞𝙡𝙡𝙨
@@ -16,6 +14,4 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
