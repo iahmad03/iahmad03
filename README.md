@@ -6,13 +6,6 @@
 - 🔭  Currently working on a portfolio website
 - 📚  &nbsp;Studying Computer Science at [Northern Virginia Community College](https://www.nvcc.edu/)
 
-## 𝙒𝙝𝙖𝙩 𝙖𝙧𝙚 𝙢𝙮 𝙝𝙤𝙗𝙗𝙞𝙚𝙨?
-
-- 🏋️  I love going to the gym
-- 📝  I spend a lot of time doing homework
-- 🎮  I play video games to distract myself from homework 
-- 🎵  I love listening to music, especially while I'm doing homework
-
 ## 𝙎𝙠𝙞𝙡𝙡𝙨
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
