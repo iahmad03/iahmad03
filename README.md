@@ -1,7 +1,7 @@
 # 𝙄𝙧𝙛𝙝𝙖𝙣 𝘼𝙝𝙢𝙖𝙙
 <img src="https://github.com/iahmad03/iahmad03/assets/148810603/43fe6b88-7561-4de4-9480-0cd84a1689e9" width="360" height="280">
 
-- 👨🏻‍💻  Interested in machine learning and web development
+- 👨🏻‍💻  Interested in machine learning and data science
 - 📚  &nbsp;Studying Computer Science at [Northern Virginia Community College](https://www.nvcc.edu/)
 
 ## 𝙎𝙠𝙞𝙡𝙡𝙨
