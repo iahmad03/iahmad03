@@ -2,8 +2,8 @@
 <img src="https://github.com/iahmad03/iahmad03/assets/148810603/43fe6b88-7561-4de4-9480-0cd84a1689e9" width="360" height="280">
 
 - 📚  &nbsp;Computer Science student at [George Mason University]([https://www.gmu.edu/])
-- 👨🏻‍💻  Interested in AI and Software Development
-- 🧠  Learning data structures, algorithms, and machine learning models
+- 👨🏻‍💻  Interested in AI and Backend Development
+- 🧠  Learning C, Go, and machine learning models
 
 ## 𝙎𝙠𝙞𝙡𝙡𝙨
 
