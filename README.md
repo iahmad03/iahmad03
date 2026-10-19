@@ -1,9 +1,9 @@
 # 𝙄𝙧𝙛𝙝𝙖𝙣 𝘼𝙝𝙢𝙖𝙙
 <img src="https://github.com/iahmad03/iahmad03/assets/148810603/43fe6b88-7561-4de4-9480-0cd84a1689e9" width="360" height="280">
 
-- 📚  &nbsp;Computer Science student at [George Mason University]([https://www.gmu.edu/])
-- 👨🏻‍💻  Interested in AI and Backend Development
-- 🧠  Learning C, Go, and machine learning models
+-  Computer Science student at [George Mason University]([https://www.gmu.edu/])
+-  Interested in AI and Backend Development
+-  Learning C, Go, and machine learning models
 
 ## 𝙎𝙠𝙞𝙡𝙡𝙨
 
@@ -15,9 +15,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
